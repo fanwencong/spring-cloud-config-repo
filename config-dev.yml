@@ -2,7 +2,7 @@ server:
   port: 8888
 spring:
   application:
-    name: conifg
+    name: config
 #  cloud:
 #    config:
 #      uri: https://github.com/fanwencong/Spring-config-server.git
